@@ -1,0 +1,8 @@
+{
+  "name": "digest-dice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "899d1314"
+}
